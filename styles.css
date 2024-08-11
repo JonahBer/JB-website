@@ -19,6 +19,7 @@ button{
     font-size : 2vw;
 }
 ul2{
+    
     font-size:3vw;
 }
 st1{
@@ -28,6 +29,13 @@ body{
     line-height: 4vw;
 }
 pn{
-    line-height: 20vw;
+    line-height: 5vw;
     color:white
 }
+ut{
+    background-color:white;
+    color:rgb(134 35 52);
+    width:100vw;
+    padding:5px;
+    box-sizing:border-box;
+    border: 5px solid rgb(134 35 52)}
